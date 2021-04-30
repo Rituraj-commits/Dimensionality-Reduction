@@ -24,7 +24,7 @@ Visit this link for tsnecuda overview and installation [tsne](https://github.com
 
 ## Results
 
-| Technique | Time (in seconds) |
+| Technique(s) | Time (in seconds) |
 | --- | --- |
 | PCA | ~0.8s |
 | t-SNE | ~ 65s |
